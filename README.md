@@ -31,7 +31,9 @@ A tool designed to help visually impaired individuals place objects in perspecti
 * Let users place the horizon line by speaking a number between 0 and 100
 * This determines the user's eye level
 * 0 represents he top, 50 the middle, and 100 the bottom (0 = everything is below your eye level, 50 = can be above or below the eye level, 100 = everything is above your eye level)
-  <img width="529" height="579" alt="image" src="https://github.com/user-attachments/assets/5e23419a-d650-43bc-87c3-56eff968679a" />
+
+<img width="529" height="579" alt="image" src="https://github.com/user-attachments/assets/5e23419a-d650-43bc-87c3-56eff968679a" />
+
 * Every object follows the same perspective rule
 * All objects have the same physical size in the virtual 3D environment
 * Automatically adjusts the size based on the placement 
